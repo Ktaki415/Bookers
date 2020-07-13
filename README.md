@@ -1,4 +1,6 @@
 # README
+# DMM WEBCAMP Contents[Let's complete the application]
+## DMM WEBCAMP learning content [Let's complete the application] is a training topic.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
